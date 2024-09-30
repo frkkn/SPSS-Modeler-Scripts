@@ -15,4 +15,3 @@ if mode == "Table":
     n_new.setPropertyValue("tablename", n_old.getPropertyValue("tablename"))
 elif mode == "Query":
     n_new.setPropertyValue("query", n_old.getPropertyValue("query"))
-
